@@ -1,0 +1,11 @@
+{
+  "mongo": {
+    "uri": "mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000",
+    "name": "dbName"
+  },
+  "server": {
+    "apiport": 12345
+  },
+  "dbLimit": 500,
+  "uiLimit": 10000
+}
